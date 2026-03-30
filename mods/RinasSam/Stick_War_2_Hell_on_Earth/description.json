@@ -4,7 +4,7 @@
 	"image": "https://github.com/SW2CM/Stick-War-Mods/raw/refs/heads/master/mods/RinasSam/Stick_War_2_Hell_on_Earth/title.png",
 	"description": "A unique twist on the original Stick War 2 campaign: you have double the economy, but the enemy respawns. Do you think you can take them down before they get too strong?",
 	"developers": "Programming: RinasSam.\nPlaytesting: 75g and Bestfriend.\nMusic: Bobby Prince.\nConcept: id Software.",
-	"additional_credits": "Decino.",
+	"additionalCredits": "Decino.",
 	"bugs": "Lag upon extended play is normal.",
 	"base": "Stick Empires 2.29",
 	"version": "1.0",

@@ -4,7 +4,7 @@
 	"image": "https://github.com/SW2CM/Stick-War-Mods/raw/refs/heads/master/mods/AsePlayer/Stick_War_2_Chaos_Campaign/title.png",
 	"description": "Play as Queen Medusa, ex-leader of the Chaos Empire! Regain your following and destroy all that stand in your way on your path to reclaim Inamorta!",
 	"developers": "Chaos Empire Campaign Mod By: Ryan Scott (AsePlayer), Austin Dressick (Destroyer), & Cecilia Canavati (Purpi)\n\nGame Design, Programming & Project Management: AsePlayer\nArt: Purpi\nSprite Manager: Destroyer & AsePlayer\nAddtional Programming: Destroyer & dyzqy\nAdditional Art: BlueXDN25, Maktronius, Destroyer, AsePlayer\nCreative Consultant: Xecute\nQuality Assurance: AsePlayer & Xecute\nLore: AsePlayer, Destroyer, Pax Orderia, & Bloxro_",
-	"additional_credits": "Special Thanks:\nPretty Good Source Code: Brock White\nFree Flash Decompiler: JPEXS (github.com/jindrapetrik/jpexs-decompiler)\nSupporters: Nayreel17 & COCOGOAT MILKERSSSSS\nMinGames Discord Community Manager: 75g\nEx-Developers: Team Vertigo\nOur Many Beta Testers, Especially AsePlayer ;)",
+	"additionalCredits": "Special Thanks:\nPretty Good Source Code: Brock White\nFree Flash Decompiler: JPEXS (github.com/jindrapetrik/jpexs-decompiler)\nSupporters: Nayreel17 & COCOGOAT MILKERSSSSS\nMinGames Discord Community Manager: 75g\nEx-Developers: Team Vertigo\nOur Many Beta Testers, Especially AsePlayer ;)",
 	"bugs": "",
 	"base": "Stick War 2",
 	"version": "1.0",

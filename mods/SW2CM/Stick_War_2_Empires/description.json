@@ -4,7 +4,7 @@
 	"image": "https://github.com/SW2CM/Stick-War-Mods/raw/refs/heads/master/mods/SW2CM/Stick_War_2_Empires/title.png",
 	"description": "Experience the original Stick War 2 campaign with all 3 empires! All upgrades are unlocked, and there are no changes in gameplay (except in one place :D).",
 	"developers": "RinasSam: Concept and most of the programming.\nDyzqy: Concept, programming, and finishing touches.\ns07: Programming help and bug fixes.\nBlack, Clementchuah, Cosmic Chad, Elijah, GreyScale, Peece, Percival, RandomShiet, RedCoolsteve, Waterbug, and William1: General Playtesting.\n75g: Extensive Chaos playtestng at 4am.\nLttsumm1743: Extensive playtesting and suggestions.\nShadowEmpire: Extensive Chaos playtesting on Insane mode.\nZortcele: Extensive Elemental playtesting on Insane mode.\nSnowStrider: New campaign map (remade).\nPyro: Title screen art.\nChicago Symphony Orchestra and Ashkenazy: Credits music.\nRinasSam's Father: Title screen positioning help.\nAsePlayer: Bug fixes and final pass.",
-	"additional_credits": "StickPage Studios for the Rebels map background.",
+	"additionalCredits": "StickPage Studios for the Rebels map background.",
 	"bugs": "Hopefully none.",
 	"base": "Stick Empires 2.29",
 	"version": "1.0.1",
