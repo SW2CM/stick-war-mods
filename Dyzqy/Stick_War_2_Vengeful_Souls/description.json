@@ -1,17 +1,15 @@
 {
-	"mod": {
-		"name": "Stick War 2: Vengeful Souls",
-		"url": "https://github.com/SW2CM/Stick-War-Mods/raw/refs/heads/master/dyzqy/Stick_War_2_Vengeful_Souls_/Vengeful_Souls.swf",
-		"image": "https://github.com/SW2CM/Stick-War-Mods/raw/refs/heads/master/dyzqy/Stick_War_2_Vengeful_Souls_/title.png",
-		"description": "Across many battles, thousands have fallen victim to your empire. Now, they seek vengeance! Vengeful souls will break into the mortal realm to try and defeat you. Will you be at the mercy of fate, or will you ensare it to your will?",
-		"developers": "Dyzqy (CREDITS TBD)",
-		"additional_credits": "",
-		"bugs": "",
-		"base": "Stick War 2",
-		"version": "1.0",
-		"type": "Singleplayer",
-		"empire": "Order",
-		"levels": "1",
-		"difficulty": "C"
-	}
+	"name": "Stick War 2: Vengeful Souls",
+	"url": "https://github.com/SW2CM/Stick-War-Mods/raw/refs/heads/master/dyzqy/Stick_War_2_Vengeful_Souls_/Vengeful_Souls.swf",
+	"image": "https://github.com/SW2CM/Stick-War-Mods/raw/refs/heads/master/dyzqy/Stick_War_2_Vengeful_Souls_/title.png",
+	"description": "Across many battles, thousands have fallen victim to your empire. Now, they seek vengeance! Vengeful souls will break into the mortal realm to try and defeat you. Will you be at the mercy of fate, or will you ensare it to your will?",
+	"developers": "Dyzqy (CREDITS TBD)",
+	"additional_credits": "",
+	"bugs": "",
+	"base": "Stick War 2",
+	"version": "1.0",
+	"type": "Singleplayer",
+	"empire": "Order",
+	"levels": "1",
+	"difficulty": "C"
 }
