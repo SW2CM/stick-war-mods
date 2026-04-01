@@ -5,7 +5,7 @@
 	"description": "A tribute to the grandfather of Stick War: the original Champion Archer by 2dArray. Enjoy an arcade-like experience of Champion Archer within Stick War 2, complete with User Control, upgrades, and more!\n\nYou can user control units with keybind \"F\".",
 	"developers": "dyzqy",
 	"additionalCredits": "Eli Piilonen for making Champion Archer.\nAsePlayer for user control code.",
-	"releaseDate": "2022/07/01",
+	"releaseDate": "2024/07/01",
 	"latestUpdateDate": "2024/07/01",
 	"bugs": "Invincibility upgrade freezes the Archidon.",
 	"base": "Stick Empires 2.29",
