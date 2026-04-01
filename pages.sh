@@ -17,7 +17,7 @@ git rm --cached fusion.sh
 mv index.json mods/
 git restore --source master app/build/openfl/html5/bin
 find ./app/build/openfl/html5/bin/ -type f -exec mv '{}' ./ \;
-git add mods favicon.png index.html5 sw2cmbrowser.js
+git add mods favicon.png index.html sw2cmbrowser.js
 echo Pushing...
 git commit -m "Automatically generated from the master branch"
 git push
