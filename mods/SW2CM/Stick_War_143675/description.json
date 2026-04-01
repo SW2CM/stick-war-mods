@@ -5,6 +5,8 @@
 	"description": "Tired of mods being too hard? Let us then recommend this groundbreaking secret technique: Practice!\nPractice is good and fun for everyone! Fight a whole ass army and a boss in 143675 milliseconds while your screen has a seizure, control mercy being on RNJesus, and your army gets reset when you destroy the statue! It's good fun if you practice it!\nHave you been spamming swords since 2009? Try Stick_War_143675.swf! It's very good, we promise!\n'Best mod ever!' -Medusa (real)\n'Dogshit. 0/10. I'm outta here.' -s07 (probably)",
 	"developers": "RinasSam and Dyzqy: Programming.\nRiceFat: Moyai statue.\nThotPatrol346: Music and graphics help.",
 	"additionalCredits": "New Zealand for Pukekos.\nSunlust Map 31 description for inspiration.",
+	"releaseDate": "2025/04/02",
+	"latestUpdateDate": "2025/04/02",
 	"bugs": "Restarting a match causes the screen to bug out. Restart the entire SWF instead.",
 	"base": "PAP (based on SE 2.29)",
 	"version": "1.0",
