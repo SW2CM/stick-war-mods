@@ -7,7 +7,7 @@
 	"additionalCredits": "Eli Piilonen for making Champion Archer.\nAsePlayer for user control code.",
 	"releaseDate": "2022/07/01",
 	"latestUpdateDate": "2024/07/01",
-	"bugs": "Invincibility freezes the Archidon.",
+	"bugs": "Invincibility upgrade freezes the Archidon.",
 	"base": "Stick Empires 2.29",
 	"version": "1.0",
 	"type": "Singleplayer",
