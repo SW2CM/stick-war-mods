@@ -1,0 +1,12 @@
+{
+	"mods": [
+		"https://sw2cm.github.io/stick-war-mods/mods/AsePlayer/Stick_War_2.5_User_Control/description.json",
+		"https://sw2cm.github.io/stick-war-mods/mods/AsePlayer/Stick_War_2_Chaos_Campaign/description.json",
+		"https://sw2cm.github.io/stick-war-mods/mods/dyzqy/Stick_War_2_Vengeful_Souls/description.json",
+		"https://sw2cm.github.io/stick-war-mods/mods/RinasSam/Stick_War_2_Hell_on_Earth/description.json",
+		"https://sw2cm.github.io/stick-war-mods/mods/StickPage/Stick_War_1/description.json",
+		"https://sw2cm.github.io/stick-war-mods/mods/SW2CM/Stick_War_143675/description.json",
+		"https://sw2cm.github.io/stick-war-mods/mods/SW2CM/Stick_War_2_Empires/description.json",
+		"https://sw2cm.github.io/stick-war-mods/mods/SW2CM/Stick_War_2_Kaizo/description.json"
+	]
+}

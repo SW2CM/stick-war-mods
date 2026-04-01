@@ -1,0 +1,17 @@
+{
+	"name": "Stick War 2: Hell on Earth",
+	"url": "https://github.com/SW2CM/Stick-War-Mods/raw/refs/heads/master/mods/RinasSam/Stick_War_2_Hell_on_Earth/Stick_War_II_-_Hell_on_Earth_Literal_Nightmare_Edition.swf",
+	"image": "https://sw2cm.github.io/stick-war-mods/mods/RinasSam/Stick_War_2_Hell_on_Earth/title.png",
+	"description": "A unique twist on the original Stick War 2 campaign: you have double the economy, but the enemy respawns. Do you think you can take them down before they get too strong?",
+	"developers": "Programming: RinasSam.\nPlaytesting: 75g and Bestfriend.\nMusic: Bobby Prince.\nConcept: id Software.",
+	"additionalCredits": "Decino.",
+	"releaseDate": "2024/05/02",
+	"latestUpdateDate": "2024/05/02",
+	"bugs": "Game becomes laggy during extended playsessions.",
+	"base": "Stick Empires 2.29",
+	"version": "1.0",
+	"type": "Singleplayer",
+	"empire": "Order",
+	"levels": "14",
+	"difficulty": "A-"
+}
