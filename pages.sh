@@ -21,5 +21,5 @@ git add mods favicon.png index.html sw2cmbrowser.js
 echo Pushing...
 git commit -m "Automatically generated from the master branch"
 git push
-git checkout master
+git checkout master --force
 echo Done!
