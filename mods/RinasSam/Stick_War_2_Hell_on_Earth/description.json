@@ -7,7 +7,7 @@
 	"additionalCredits": "Decino.",
 	"releaseDate": "2024/05/02",
 	"latestUpdateDate": "2024/05/02",
-	"bugs": "Game becomes laggy during extended playsessions.",
+	"bugs": "Game becomes laggy during extended playsessions.\nUnit names in tooltips are bugged.",
 	"base": "Stick Empires 2.29",
 	"version": "1.0",
 	"type": "Singleplayer",
