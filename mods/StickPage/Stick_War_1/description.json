@@ -8,7 +8,7 @@
 	"releaseDate": "2009/08/25",
 	"latestUpdateDate": "",
 	"bugs": "Selecting units in garrison causes them to be untargettable.\nPausing the game breaks Giant attacks.\nSome units may just disappear.\nStatue may sometimes disappear.",
-	"base": "Stick War 1",
+	"base": "N/A",
 	"version": "1.3",
 	"type": "Singleplayer",
 	"empire": "Order",
