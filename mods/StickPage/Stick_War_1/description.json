@@ -1,0 +1,17 @@
+{
+	"name": "Stick War 1",
+	"url": "https://github.com/SW2CM/Stick-War-Mods/raw/refs/heads/master/mods/StickPage/Stick_War_1/Stick_War_1.swf",
+	"image": "https://sw2cm.github.io/stick-war-mods/mods/StickPage/Stick_War_1/title.png",
+	"description": "Play the game Stick War, one of the biggest most fun, challenging, and addicting stick figure games online. Control your army in formations or play each unit, you have total control. Build units, mine gold, learn the way of the Sword, Spear, Archer, Mage, and even Giant. Destroy the enemy statue, and capture all Territories.\nIn a world called Inamorata, you're surrounded by discriminate nations devoted to their individual nations technology and struggle for dominance. Each nation has developed its own unique way to defend and attack. Proud of their unique craft they have become obsessed to the point of worship, turning weapons to religion. Each believe that their way of life is the only way, and are dedicated to teaching their polices to all other nations through what there leaders claim as divine intervention, or as you will know it... war.\nThe others are known as: 'Archidonis' the way of the archer, 'Swordwrath' the way of the sword, 'Magikill' the way of the mage, and 'Speartons' the way of the Spear.\nYou are the leader of the nation called 'Order', your way is of peace and knowledge, your people do not worship their weapons as gods. This makes you a mark for infiltration by the surrounding nations. Your only chance to defend is to attack first, and obtain the technologys from each nation along the way.",
+	"developers": "Game Concept by: Jason Whitham (CRAZY JAY) & Brock White\nAll Programming by: Brock White\nAll Art & Animation & Story by: Jason Whitham\nGame Balance by: Brock and CRAZY JAY",
+	"additionalCredits": "Special Thanks to:\nJazza - Intro Music\nAdam Westerman - Map\nAll our beta testers\ntwoDimensionalArray - Began the project with years ago but never got off the ground.\n\nMusic:\nBattle of the Shadow Elves - Chris Haigh\nField of Memories - Waterflame\nEntering the Stronghold - Denny Schneideme\n\n\nInsane mode unlocked by Dyzqy",
+	"releaseDate": "2009/08/25",
+	"latestUpdateDate": "",
+	"bugs": "Selecting units in garrison causes them to be untargettable.\nPausing the game breaks Giant attacks.\nSome units may just disappear.\nStatue may sometimes disappear.",
+	"base": "N/A",
+	"version": "1.3",
+	"type": "Singleplayer",
+	"empire": "Order",
+	"levels": "12",
+	"difficulty": "D+"
+}
