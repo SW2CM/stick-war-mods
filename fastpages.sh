@@ -11,6 +11,7 @@ find ./ -type f -name "*.swf" -delete;
 git rm --cached fusion.sh
 mv index.json mods/
 echo Pushing...
+git add mods favicon.png index.html sw2cmbrowser.js
 git commit -m "Automatically generated from the master branch"
 git push
 git checkout master --force
