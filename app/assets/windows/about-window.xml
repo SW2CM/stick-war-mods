@@ -1,0 +1,10 @@
+<window title="About" width="800" height="250"> 
+	<vbox width="100%" height="100%">
+		<label text="SW2CM Mod Browser" style="font-size: 40px; color: #FFFFFF; horizontal-align: center;" verticalAlign="center" />
+		<label text="A simple interface to access Stick War mods." style="font-size: 25px; horizontal-align: center;" verticalAlign="center" />
+		<label text="Made by RinasSam." style="font-size: 15px; horizontal-align: center;" verticalAlign="center" />
+
+		<spacer height="100%" />
+		<button id="buttonAboutClose" text="Close" horizontalAlign="center" verticalAlign="bottom" />
+	</vbox>
+</window>

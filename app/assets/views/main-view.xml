@@ -1,0 +1,137 @@
+<!-- Adapted from https://github.com/haxeui/component-explorer -->
+
+<vbox width="100%" height="100%" styleName="default-background">
+	<style>
+		* {
+			font-size: 20px;
+		}	
+
+		.section-header {
+			font-size: 25px;
+			font-weight: bold;
+			color: #CCCCCC;
+		}
+
+		.label.title {
+			font-size: 50px;
+			font-weight: bold;
+			color: #FFFFFF;
+			horizontal-align: center;
+		}
+
+		.label.redtitle {
+			font-size: 50px;
+			font-weight: bold;
+			color: #FF0000;
+			horizontal-align: center;
+		}
+
+		.label.modtitle {
+			font-weight: bold;
+			color: #CCCCCC;
+		}
+
+		.label.small {
+			font-size: 15px;
+		}
+
+		.link.small {
+			font-size: 15px;
+		}
+
+		.label.bold {
+			font-weight: bold;
+		}
+	</style>
+
+
+	<menu-bar width="100%" style="spacing: 0px; padding: 0px;">
+		<label text="SW2CM Mod Browser" styleName="title" verticalAlign="center" width="100%" wordWrap="true" />
+		<!--label text="2" styleName="redtitle" horizontalAlign="center" verticalAlign="center" wordWrap="true" /-->
+		<!--label text="CM Mod Browser" styleName="title" verticalAlign="center" width="100%" wordWrap="true" /-->
+		<menuitem id="menuAbout" text="About" height="100%" verticalAlign="center" />
+	</menu-bar>
+
+
+	<hbox width="100%" height="100%">
+		<splitter direction="horizontal" width="100%" height="100%" horizontalAlign="center">
+			<panel text="Mod List" width="30%" height="100%">
+				<vbox width="100%" height="100%">
+					<!--textfield id="textSearch" placeholder="Search..." width="100%" autoFocus="false" focus="false" /-->
+					<listview id="modList" width="100%" height="100%" selectedIndex="0" onchange="onModSelect();" styleName="classic-scrolls">
+						<item-renderer layout="horizontal" width="100%">
+							<image id="image" />
+							<vbox width="100%" verticalAlign="center">
+								<label id="name" styleName="modtitle" width="100%" />
+								<grid columns="2" width="100%">
+									<label text="Author: " />								
+									<link id="author" width="100%" />
+
+									<label text="Latest Version: " />
+									<label id="version" width="100%" />
+									
+									<label text="First Release: " />
+									<label id="releaseDate" width="100%" />
+
+									<label text="Last Update: " />
+									<label id="updateDate" width="100%" />
+								</grid>
+							</vbox>
+						</item-renderer>
+					</listview>
+				</vbox>
+			</panel>
+
+			<panel text="Mod Information" width="70%" height="100%">
+				<scrollview width="100%" contentWidth="100%" height="100%" styleName="classic-scrolls">
+					<vbox width="100%">
+						<label id="labelTitle" text="Loading (may take a while)..." styleName="title" verticalAlign="top" autoHeight="true" />
+
+						<section-header text="Description" />
+						<label id="labelDescription" width="100%" autoHeight="true" wordWrap="true" />
+
+						<section-header text="Developers" />
+						<label id="labelDevelopers" width="100%" autoHeight="true" wordWrap="true" />
+
+						<section-header text="Additional Credits" />
+						<label id="labelAdditionalCredits" width="100%" autoHeight="true" wordWrap="true" />
+
+						<section-header text="Known Bugs" />
+						<label id="labelBugs" width="100%" autoHeight="true" wordWrap="true" />
+
+						<section-header text="Other Information" />
+						<grid columns="2">
+							<label text="Type: " styleName="bold" autoHeight="true" />
+							<label id="labelType" autoHeight="true" />
+
+							<label text="Player Empire: " styleName="bold" autoHeight="true" />
+							<label id="labelEmpire" autoHeight="true" />
+
+							<label text="Levels: " styleName="bold" autoHeight="true" />
+							<label id="labelLevels" autoHeight="true" />
+
+							<label text="Difficulty: " styleName="bold" />
+							<label id="labelDifficulty" autoHeight="true" />
+
+							<label text="Mod Base: " styleName="bold" autoHeight="true" />
+							<label id="labelBase" autoHeight="true" />
+						</grid>
+					</vbox>
+				</scrollview>
+
+				<footer width="100%">
+					<hbox width="100%" style="padding: 10px;">
+						<spacer width="100%" />
+						<!--TODO: Add author information button-->
+						<!--button id="buttonAuthor" text="Author Information" horizontalAlign="center" /-->
+						<button id="buttonShare" text="Share Mod" horizontalAlign="center" />
+						<button id="buttonDownload" text="Download Mod" horizontalAlign="center" />
+						<spacer width="100%" />
+					</hbox>
+				</footer>
+			</panel>
+		</splitter>
+	</hbox>
+
+	<window-list height="40" verticalAlign="bottom"/>
+</vbox>
