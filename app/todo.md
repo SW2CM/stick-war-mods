@@ -1,3 +1,0 @@
-- [ ] Formatting for text.
-- [ ] Flash player link.
-- [ ] Difficulty explanation.

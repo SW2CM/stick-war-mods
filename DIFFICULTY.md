@@ -15,15 +15,13 @@ So a "D" difficulty is a little easier than "D+", harder than "E", but much easi
 "C" mods are a fair, casual challenge.  
 "B" mods are a tough challenge but still perfectly reasonable.  
 "A" mods are really hard and will not be beaten in a single playsession.  
-"X" mods require days of practice on singular levels.
-"Z" mods are basically borderline impossible.
+"X" mods mandate borderline perfect play.
 
 
 Reference Mods
 ---
 Arbitrarily assigning difficulties does not make sense, so we have picked reference mods to establish what each difficulty means. All the mods are ranked on "Insane" or the equivalent hardest difficulty, with no cheats or self imposed challenges.
 
-- Z: **COMING SOON**
 - X: Stick War 2 Kaizo
 	- X-:
 	- A+:
