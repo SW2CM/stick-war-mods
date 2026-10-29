@@ -3,7 +3,7 @@ Difficulty Scale
 You may have noticed that some mods have a difficulty rating such as "D-", "C", "X", etc. This difficulty scale is adapted from MtPain27, and is composed of the following difficulties:
 
 ```txt
-E (easy) ---> D ---> C ---> B ---> A ---> X (extreme)
+E (easy) ---> D ---> C ---> B ---> A ---> X (extreme) ---> Z (zamn)
 ```
 
 The \+ and \- signs indicate relative difficulty within the range. A "B-" difficulty corresponds to the easier "B" level mods, and "B+" would be the more difficult ones. "B" by itself is somewhere in the middle.
@@ -15,13 +15,15 @@ So a "D" difficulty is a little easier than "D+", harder than "E", but much easi
 "C" mods are a fair, casual challenge.  
 "B" mods are a tough challenge but still perfectly reasonable.  
 "A" mods are really hard and will not be beaten in a single playsession.  
-"X" mods mandate borderline perfect play.
+"X" mods require days of practice on singular levels.
+"Z" mods are basically borderline impossible.
 
 
 Reference Mods
 ---
 Arbitrarily assigning difficulties does not make sense, so we have picked reference mods to establish what each difficulty means. All the mods are ranked on "Insane" or the equivalent hardest difficulty, with no cheats or self imposed challenges.
 
+- Z: **soon. :D**
 - X: Stick War 2 Kaizo
 	- X-:
 	- A+:
